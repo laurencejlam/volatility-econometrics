@@ -1,6 +1,6 @@
 # Advanced Volatility Forecasting: Time Series & Machine Learning Approaches
 
-This repository contains a comprehensive implementation of volatility forecasting models using both classical time series techniques and modern machine learning approaches. The project is designed to showcase rigorous quantitative research methods, statistical modeling, and practical financial engineering applications.
+This repository contains a comprehensive implementation of volatility forecasting models using both classical time series techniques and modern machine learning approaches. 
 
 ## Research Objective
 
@@ -83,14 +83,8 @@ The project is organized as a series of Jupyter notebooks that walk through the 
 5. `notebooks/5_Model_Evaluation.ipynb` - Comprehensive model evaluation
 6. `notebooks/6_Trading_Applications.ipynb` - Financial applications
 
-## Contributing
-
-This is an academic research project. Please contact the author before making contributions.
-
 ## License
 
 MIT License
 
-## Author
 
-[Your Name] - PhD Candidate in Financial Engineering 
